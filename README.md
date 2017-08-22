@@ -1,3 +1,5 @@
+**THIS PROJECT IS NO LONGER MAINTAINED**
+
 # Ruby コーディング規約
 
 これは [マネーフォワード][moneyforward-corp] Ruby コーディング規約です.
